@@ -7,6 +7,8 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background:  black url(./images/phone-gbe302ccee_1280.jpg) 0 0 / cover no-repeat;
+  background-color: rgba(255, 255, 255, 0.867);
 }
 
 code {
